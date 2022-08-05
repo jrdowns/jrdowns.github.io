@@ -1,5 +1,9 @@
 # Portfolio  
 ---
+### Deploying a Machine Learning Model to Google Cloud using Streamlit, Docker, and Vertex AI
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+
+---
 ### Deploying NGINX to Google Cloud with Google Kubernetes Engine and Terraform  
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/nginx-kub-terraform-gcp)
@@ -15,9 +19,9 @@
 ### Buttons
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)]()
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
 ---
 <center>Powered by Jekyll and the Minimal Theme.</center>
