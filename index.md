@@ -1,12 +1,13 @@
 # Portfolio  
 ---
-## DevOps  
-
-Yo
-
 ### Deploying NGINX to Google Cloud with Google Kubernetes Engine and Terraform  
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/nginx-kub-terraform-gcp)
+
+---
+### Serving a TensorFlow model with Flask and Heroku 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/TFLite_Heroku) 
+<div style="text-align: justify">I deployed a pretrained TensorFlow Lite model to the browser using TensorFlow.js, Flask, and Heroku.</div>
 
 ---
 ### Buttons
@@ -37,11 +38,6 @@ Yo
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
-
----
-## Other Projects
-
-- [Movie Review Positivity Analysis with TensorFlow Lite, Flask, and Heroku](https://github.com/jrdowns/TFLite_Heroku)
 
 ---
 <center>Powered by Jekyll and the Minimal Theme.</center>
