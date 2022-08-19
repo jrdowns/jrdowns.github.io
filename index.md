@@ -8,8 +8,8 @@
 ---
 
 ## Serving a TensorFlow model with Flask and Heroku 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/TFLite_Heroku) 
-<div style="text-align: justify">I deployed a pretrained TensorFlow Lite model to the browser using TensorFlow.js, Flask, and Heroku.</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/TFLite_Heroku)  
+#### Overview: I deployed a pretrained TensorFlow Lite model to the browser using TensorFlow.js, Flask, and Heroku.
 <center><img src="images/movie_review_box.png"/></center>
 
 ---
