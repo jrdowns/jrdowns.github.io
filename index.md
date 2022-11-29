@@ -1,5 +1,11 @@
 # Portfolio  
 ---
+## Case Study: Breast Cancer Classification Using SVM
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/cs_breast_cancer_classification)  
+#### Overview: I use an SVM model to classify breast cell biopsies into either benign or malignant (cancerous).  
+#### Results: The model achieved a max accuracy of 97%.  
+
+---
 
 ## Deploying a NGINX web server to AWS using Terraform  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jrdowns/EC2_Webapp_With_Terraform)  
